@@ -22,8 +22,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## How to install and run on your local system
-1. git clone git@github.com:Anouar-01/Laravel-8-Movie-Rating-System.git
-2. cd Laravel-8-Movie-Rating-System/
+1. git clone git@github.com:Anouar-Dhahri/Movies-rating-system.git
+2. cd Movies-rating-system/
 3. composer install
 4. composer require laravel/ui
 5. php artisan ui bootstrap --auth
